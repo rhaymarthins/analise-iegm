@@ -50,6 +50,9 @@ Identificação do município com maior nota percentual em cada uma das sete ár
 ### Análise 2 — Respostas dos Municípios Destaque
 Extração e exibição das respostas enviadas por cada município campeão, mostrando quais questões foram respondidas e qual nota cada resposta recebeu.
 
+### Curiosidade — Comparação: Sobral vs. Município Destaque
+Ao longo da análise, foi possível observar que Sobral liderou em cinco das sete áreas do IEGM 2023. Nas áreas de Educação (Groaíras) e Planejamento (Caucaia), onde Sobral não ficou em primeiro lugar, foi feita uma comparação lado a lado das respostas dos dois municípios para identificar quais questões foram respondidas de forma diferente e como isso impactou a nota final.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
